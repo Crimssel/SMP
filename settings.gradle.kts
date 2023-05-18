@@ -1,1 +1,1 @@
-rootProject.name = "aimless"
+rootProject.name = "SMP"
